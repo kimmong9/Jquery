@@ -48,7 +48,7 @@ h1 {
   color: #111;
 }
 .tab a .active {
-  background-color: #ccc;
+  background-color: #666;
   color: #fff;
 }
 .tab a:hover {
